@@ -6,7 +6,8 @@ public class Main {
 	System.out.println("hhhhhhhhhhh");
         System.out.println("jjjjjjjjjjjjjj");
         System.out.println("Hello-hello");
-
-
+for(int i = 0; i<3; i++){
+	System.out.println("I am big!!!");
+	}
     }
 }
